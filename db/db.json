@@ -4,3 +4,4 @@
         "text":"Test text"
     }
 ]
+// Will be used to store and retrieve notes using the fs module.
