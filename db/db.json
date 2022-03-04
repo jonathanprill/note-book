@@ -1,33 +1,24 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test text"
+      "title": "First",
+      "text": "first note",
+      "id": "0"
     },
     {
-      "title": "TSDFSDFSDFSe",
-      "text": "Test SDFDFDSF",
+      "title": "Second",
+      "text": "second note",
       "id": "1"
     },
     {
-      "title": "TSDFSDFSDFSe",
-      "text": "Test SDFDFDSF",
+      "title": "Third",
+      "text": "third note",
       "id": "2"
     },
     {
-      "title": "TSDFSDFSDFSe",
-      "text": "Test SDFDFDSF",
+      "title": "Fourth",
+      "text": "fourth note sdfsdf sdf s",
       "id": "3"
-    },
-    {
-      "title": "TSDFSDFSDFSe",
-      "text": "Test SDFDFDSF",
-      "id": "4"
-    },
-    {
-      "title": "TSDFSDFSDFSe",
-      "text": "Test SDFDFDSF",
-      "id": "5"
     }
   ]
 }
