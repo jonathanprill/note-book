@@ -21,9 +21,7 @@ To install this project you can clone or download the zip file. Install Node if 
 
 ## Usage
 
-https://drive.google.com/file/d/1AFmAA9VnlUAWVOUEvc40V26UtxTXJ3OB/view
-![ScreenShot](/assets/images/capture1.PNG "screenshot1") To begin navigate to the root directory of the project and type 'npm start' and press enter. Then go to http://localhost:3001/ to begin!
-Alternatively, go to  https://rocky-savannah-08577.herokuapp.com/ to check it out!
+To begin navigate to the root directory of the project and type 'npm start' and press enter. Then go to http://localhost:3001/ to begin! Alternatively, go to  https://rocky-savannah-08577.herokuapp.com/ to check out the deployed site!
 
 ## License
 
