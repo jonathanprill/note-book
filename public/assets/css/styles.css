@@ -76,9 +76,46 @@ body {
   padding: 20px;
   cursor: pointer;
 }
-/* 
 
-.bg-dark {
+/* Added By Me */
+
+body {
   background-image: url(../images/composition-11.jpg);
   background-size: cover;
-} */
+}
+
+.jumbotron {
+  border-radius: 80px;
+}
+
+.bg-dark {
+  background-color: #ecf0f1 !important;
+  border-bottom: 2px solid rgb(145, 203, 223);
+}
+
+.bg-dark a {
+  color: #212529 !important;
+  border-left: 2px solid red;
+  padding: 20px 8px 20px 17px;
+  margin: -16px 0 -16px 75px;
+}
+
+.icons i{
+  color: #212529 !important;
+}
+
+.col-8 {
+  padding: 0;
+  margin: -13px 0 0 0;
+}
+.row {
+  margin: 0;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.list-container {
+  padding: 0;
+}
